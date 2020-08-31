@@ -1,1 +1,1 @@
-https://rjammazi87.github.io
+https://rjammazi87.github.io/index.html
