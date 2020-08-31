@@ -1,0 +1,16 @@
+body
+{
+	margin: 40px auto;
+	line-height: 1.6;
+	font-size: 18px;
+	max-width: 650px;
+	color: #444;
+	padding: 010px
+}
+  
+{
+	h1,h2,h3
+	{
+		line-height:1.2
+	}
+}
